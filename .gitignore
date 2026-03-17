@@ -1,0 +1,19 @@
+# API keys and credentials — never commit
+.Renviron
+deploy.R
+
+# shinyapps.io deployment metadata
+rsconnect/
+
+# Cached embeddings — large binary file, regenerates automatically
+embeddings_cache.rds
+
+# R artifacts
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# OS files
+.DS_Store
+Thumbs.db
