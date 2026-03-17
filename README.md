@@ -2,7 +2,7 @@
 
 A semantic search application that helps Somerville residents find answers to city service questions instantly, without needing to call 311 or search scattered government documents.
 
-**[Live App](https://andrewnee29.shinyapps.io/311_chatbot_exploration/)**
+**[Live App](https://andrewnee29.shinyapps.io/311_chatbot/)**
 
 ---
 
